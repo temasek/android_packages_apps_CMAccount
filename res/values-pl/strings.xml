@@ -26,8 +26,8 @@
   <string name="create">Utwórz</string>
   <string name="login">Zaloguj</string>
   <string name="ok">OK</string>
-  <string name="existing">Zaloguj się na istniejące konto</string>
-  <string name="new_account">Utwórz nowe konto</string>
+  <string name="existing">Istniejące</string>
+  <string name="new_account">Nowe</string>
   <string name="skip_anyway">Pomiń mimo to</string>
   <string name="dont_skip">Nie pomijaj</string>
   <string name="setup_complete">Konfiguracja zakończona</string>
@@ -48,6 +48,7 @@
   <string name="setup_warning_skip_wifi" product="default">OSTRZEŻENIE: Operator może naliczyć dodatkowe opłaty za internet.\n\nKonfiguracja telefonu może wymagać przesłania dużych ilości danych.</string>
   <string name="setup_privacy">Ustawienia prywatności</string>
   <string name="setup_personalization">Personalizacja</string>
+  <string name="setup_finalizing">Kończenie instalacji\u2026</string>
   <string name="cmaccount_setup_create_title">Utwórz konto CyanogenMod</string>
   <string name="cmaccount_setup_login_title">Zaloguj się na swoje konto CyanogenMod</string>
   <string name="cmaccount_setup_email_label">E-mail</string>

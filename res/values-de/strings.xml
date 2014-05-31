@@ -26,8 +26,8 @@
   <string name="create">Erstellen</string>
   <string name="login">Anmelden</string>
   <string name="ok">OK</string>
-  <string name="existing">Bestehendes Konto verwenden</string>
-  <string name="new_account">Neues Konto erstellen</string>
+  <string name="existing">Bestehendes</string>
+  <string name="new_account">Neu</string>
   <string name="skip_anyway">Trotzdem überspringen</string>
   <string name="dont_skip">Zurück</string>
   <string name="setup_complete">Einrichtung abgeschlossen</string>
@@ -48,6 +48,7 @@
   <string name="setup_warning_skip_wifi" product="default">WARNUNG: Die Kontoeinrichtung kann beträchtliche Netzaktivität mit sich bringen, wodurch Kosten bei Ihrem Mobilnetzbetreiber entstehen können.</string>
   <string name="setup_privacy">Privatsphären-Einstellungen</string>
   <string name="setup_personalization">Personalisieren</string>
+  <string name="setup_finalizing">Einrichtung wird abgeschlossen\u2026</string>
   <string name="cmaccount_setup_create_title">CyanogenMod-Konto erstellen</string>
   <string name="cmaccount_setup_login_title">An CyanogenMod-Konto anmelden</string>
   <string name="cmaccount_setup_email_label">E-Mail-Adresse</string>
